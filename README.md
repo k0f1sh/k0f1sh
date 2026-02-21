@@ -7,4 +7,4 @@
 
 - [simple escape game](https://github.com/k0f1sh/ai-escape-proto-01) 
 - [short quiz maker](https://github.com/k0f1sh/short-quiz-maker)
-- [guitar guide](https://k0f1sh.github.io/guitar-guide/)
+- [guitar guide](https://github.com/k0f1sh/guitar-guide)
