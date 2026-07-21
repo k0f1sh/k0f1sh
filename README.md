@@ -9,3 +9,4 @@
 - [short quiz maker](https://github.com/k0f1sh/short-quiz-maker)
 - [guitar guide](https://github.com/k0f1sh/guitar-guide)
 - [inflation-shooter](https://github.com/k0f1sh/inflation-shooter)
+- [crane-game](https://github.com/k0f1sh/crane-game)
