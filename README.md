@@ -1,12 +1,15 @@
+# k0f1sh
+
+Building small tools and playful web experiments.
 
 ### Tools
 
-- [hikari-no-crayon (ひかりのくれよん)](https://k0f1sh.github.io/hikari-no-crayon/)
+- **hikari-no-crayon (ひかりのくれよん)** — [Repo](https://github.com/k0f1sh/hikari-no-crayon) · [Demo](https://k0f1sh.github.io/hikari-no-crayon/)
 
-### Vibe codings
+### Vibe coding
 
-- [simple escape game](https://github.com/k0f1sh/ai-escape-proto-01) 
-- [short quiz maker](https://github.com/k0f1sh/short-quiz-maker)
-- [guitar guide](https://github.com/k0f1sh/guitar-guide)
-- [inflation-shooter](https://github.com/k0f1sh/inflation-shooter)
-- [crane-game](https://github.com/k0f1sh/crane-game)
+- **simple escape game** — [Repo](https://github.com/k0f1sh/ai-escape-proto-01) · [Demo](https://k0f1sh.github.io/ai-escape-proto-01/)
+- **short quiz maker** — [Repo](https://github.com/k0f1sh/short-quiz-maker) · [Demo](https://k0f1sh.github.io/short-quiz-maker/)
+- **guitar guide** — [Repo](https://github.com/k0f1sh/guitar-guide) · [Demo](https://k0f1sh.github.io/guitar-guide/)
+- **inflation-shooter** — [Repo](https://github.com/k0f1sh/inflation-shooter) · [Demo](https://k0f1sh.github.io/inflation-shooter/)
+- **crane-game** — [Repo](https://github.com/k0f1sh/crane-game) · [Demo](https://k0f1sh.github.io/crane-game/)
