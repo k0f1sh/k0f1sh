@@ -2,6 +2,7 @@
 
 ### Tools
 
+- **viper-reader** — 技術系RSSを匿名掲示板風スレッドで読むElectronアプリ · [Repo](https://github.com/k0f1sh/viper-reader)
 - **hikari-no-crayon (ひかりのくれよん)** — 光る線を重ねて描けるペイントツール · [Repo](https://github.com/k0f1sh/hikari-no-crayon) · [Demo](https://k0f1sh.github.io/hikari-no-crayon/)
 
 ### Vibe coding
