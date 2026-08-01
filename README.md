@@ -1,7 +1,5 @@
 # k0f1sh
 
-Building small tools and playful web experiments.
-
 ### Tools
 
 - **hikari-no-crayon (ひかりのくれよん)** — [Repo](https://github.com/k0f1sh/hikari-no-crayon) · [Demo](https://k0f1sh.github.io/hikari-no-crayon/)
