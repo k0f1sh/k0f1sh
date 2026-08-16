@@ -3,7 +3,7 @@
 ### Tools
 
 - **viper-reader** — 匿名掲示板風スレッドで読むRSSリーダー · [Repo](https://github.com/k0f1sh/viper-reader)
-- **hikari-no-crayon (ひかりのくれよん)** — 光る線を重ねて描ける加算合成ペイント · [Repo](https://github.com/k0f1sh/hikari-no-crayon) · [Demo](https://k0f1sh.github.io/hikari-no-crayon/)
+- **ひかりのくれよん** — 光る線を重ねて描ける加算合成ペイント · [Repo](https://github.com/k0f1sh/hikari-no-crayon) · [Demo](https://k0f1sh.github.io/hikari-no-crayon/)
 - **cho** — Lisp風の式でテキストを抽出・整形するAWK風の小さなCLIツール · [Repo](https://github.com/k0f1sh/cho)
 
 ### Vibe coding
