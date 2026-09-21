@@ -1,5 +1,7 @@
 # k0f1sh
 
+📝 **Notes:** [k0f1sh.github.io](https://k0f1sh.github.io/)
+
 ## Tools
 
 | Tool | Description | Repo | Demo |
